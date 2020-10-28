@@ -1,4 +1,4 @@
-![](/image/INTEREST_CALCULATOR.gif)
+![](../src/image/INTEREST_CALCULATOR.gif)
 
 # Getting Started with Create React App
 
